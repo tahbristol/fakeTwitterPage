@@ -1,0 +1,28 @@
+body {
+
+}
+
+div.main  {
+	
+	height: 100px;
+
+}
+
+div.main{
+	width:600px;
+}
+
+img {
+	width: 75px;
+	height: 75px;
+}
+
+hr {
+  margin-left: 0;
+  margin-right: 0;
+  width:550px;
+}
+
+.muted {
+	color: #999;
+}
